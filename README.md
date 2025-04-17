@@ -8,7 +8,6 @@
 -   🛒 E-Commerce Core
 -   📦 Product & Category Management
 -   🛍️ Shopping Cart Functionality
--   💰 Checkout with Stripe
 -   🏷️ Coupon Code System
 -   👑 Admin Dashboard
 -   📊 Sales Analytics
@@ -17,7 +16,6 @@
 -   🔒 Security
 -   🛡️ Data Protection
 -   🚀Caching with Redis
--   ⌛ And a lot more...
 
 ### Setup .env file
 
