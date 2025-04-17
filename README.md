@@ -1,7 +1,6 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
 -   🗄️ MongoDB & Redis Integration
--   💳 Stripe Payment Setup
 -   🔐 Robust Authentication System
 -   🔑 JWT with Refresh/Access Tokens
 -   📝 User Signup & Login
